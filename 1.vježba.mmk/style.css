@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.rubik-wet-paint-regular {
+  font-family: "Rubik Wet Paint", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+			font-family: "Rubik Wet Paint";
+			font-size: 35px;
+			color: darkred;
+	        margin-left: 575px;
+		}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+h2{
+	margin-left: 450px;
+	font-size: 35px;
+	color:darkred;
+}
+p{
+	background-color: cornsilk;
+	font-size: 18px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+body{
+	background-image: url("pozadina.jpg");
+}
+img{
+	width: 200px;
+	margin-left: 575px;
+}
+
+
+
+
